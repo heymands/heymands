@@ -7,4 +7,4 @@ I'm a begginer developer, looking to create technologies to help people in a con
  <br/> 💬  &nbsp; About me: Love Technologies, games like Fortnite and GTAV, movies and tv shows.
  <br/> :email: &nbsp; where to find me: [![Linkedin Badge](https://img.shields.io/badge/-AmandabCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandabcosta/)](https://www.linkedin.com/in/amandabcosta/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-acbdacosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acbdacosta@gmail.com)](mailto:acbdacosta@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-amandacbcosta@icloud.com-c14438?style=flat-square&logo=Icloud&logoColor=white&link=mailto:amandacbcosta@icloud.com)](mailto:amandacbcosta@icloud.com)
